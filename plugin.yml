@@ -1,0 +1,4 @@
+name: OneDurability
+main: oliner.charles.onedurability.OneDurability
+version: 0.1.0
+api-version: 1.13
